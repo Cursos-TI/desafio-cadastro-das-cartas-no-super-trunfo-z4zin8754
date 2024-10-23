@@ -47,6 +47,6 @@ printf("Digite o estado (A-H): ");
     printf("População: %d\n", populacao);
     printf("Área: %.2f km²\n", area);
     printf("PIB: %.2f bilhões de reais\n", pib);
-    printf("Número de Pontos Turísticos: %d\n", pontosTuristicos);
+    printf("Número de Pontos TurísticVariáveis: %d\n", pontosTuristicos);
     return 0;
 }
