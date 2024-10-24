@@ -14,9 +14,9 @@ int main() {
     float area;
     float pib;
     int pontosTuristicos;
-    int iniciar
+   
 
-printf("Desafio Super Trunfo!\n");
+
 
 printf("Digite o estado (A-H): ");
     scanf(" %c", &estado);
@@ -48,5 +48,7 @@ printf("Digite o estado (A-H): ");
     printf("Área: %.2f km²\n", area);
     printf("PIB: %.2f bilhões de reais\n", pib);
     printf("Número de Pontos TurísticVariáveis: %d\n", pontosTuristicos);
+    
     return 0;
 }
+a
